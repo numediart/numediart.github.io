@@ -1,6 +1,6 @@
 ## Welcome to NUMEDIART GitHub Pages
 
-This page points to some of the software tools and datasets developed as part of our research and maintained by researchers of the [NUMEDIART](www.numediart.org) Institute for Creative Technology of UMONS, following the Open Access Policy of UMONS. 
+This page points to some of the software tools and datasets developed as part of our research and maintained by researchers of the [NUMEDIART](http://www.numediart.org) Institute for Creative Technology of UMONS, following the Open Access Policy of UMONS. 
 All our open source projects are made available from our github repository and all our open datasets are made available from Zenodo. 
 
 ### Software
